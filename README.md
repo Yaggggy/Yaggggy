@@ -30,24 +30,26 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yaggggy&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Yaggggy&theme=tokyonight&hide_border=true" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yaggggy&theme=tokyonight&show_icons=true&hide_border=true" /> -->
+  <!-- <img width="48%" src="https://streak-stats.demolab.com/?user=Yaggggy&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src ="https://github-readme-stats.shion.dev/api?username=Yaggggy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaggggy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
----
 
-### 🏆 GitHub Achievements
-<p align="center">
+<!--  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yaggggy&theme=tokyonight&no-frame=true&margin-w=8&column=6" />
-</p>
+</p>--> 
 
+
+<p align="center"><a href="https://github.com/stats-organization/github-stats-extended" target="blank"><img src="https://github-stats-extended.vercel.app/api?username=Yaggggy&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&custom_title=GitHub%20Stats" alt="GitHub Stats" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-repo.vercel.app/?username=Yaggggy&column=3&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
+<p align="center"><a href="https://github.com/stats-organization/github-stats-extended" target="blank"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yaggggy&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
 ---
 
 ### ⚡ Current Focus
